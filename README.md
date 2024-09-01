@@ -9,3 +9,4 @@ ContextualWikiGroqAgent is a sophisticated conversational AI agent that leverage
 - **State Management:** Manages conversation state with LangGraph, enabling contextual and memory-aware interactions.
 - **Memory Support:** Remembers past interactions to improve the relevance of responses over time.
 
+![image](https://github.com/user-attachments/assets/28e2fef0-cb09-46e1-8a29-bc30566fb852)
